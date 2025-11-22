@@ -13,9 +13,9 @@
 　JSONをエクスポートできるようにしているので、複数のJSONをAIに渡して、進捗状況やプロジェクトのレビューもできるのではないかと考えています。  
 ## 使用するための準備
 　１　次のファイルを同じフォルダに保存  
-　　・main.html  
-  　・interactive-paper.css  
-  　・interactive-paper.js  
+ - main.html  
+ - interactive-paper.css  
+ - interactive-paper.js  
  ２　main.htmlをブラウザで開く  
 ## マニュアルとサンプル集
 　JSONファイルは、マニュアルとサンプル集となっています。インタラクティブペーパーを立ち上げて、JSONファイルを読み込むと表示されます。
