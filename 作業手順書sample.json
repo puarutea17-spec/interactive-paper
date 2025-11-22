@@ -1,0 +1,120 @@
+﻿{
+  "schemaVersion": 3,
+  "title": "作業手順書サンプル",
+  "sections": [
+    {
+      "id": "sec-a91k20d",
+      "title": "作業概要",
+      "text": "この手順書は、作業を安全かつ確実に実施するための標準的な手順を示したサンプルです。",
+      "checklist": [
+        {
+          "id": "chk-h28dj91",
+          "text": "作業開始前に手順書を確認した",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-f28ka10",
+          "title": "必要な道具・環境",
+          "text": "・作業用PC\n・安全装備（必要な場合）\n・関連マニュアル\n・ネットワーク接続環境",
+          "checklist": [
+            {
+              "id": "chk-a30dm28",
+              "text": "必要な道具が揃っているか確認する",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-b82kd19",
+      "title": "手順1：事前準備",
+      "text": "作業に取りかかる前に、事前の確認と環境整備を行う。",
+      "checklist": [
+        {
+          "id": "chk-s18da90",
+          "text": "作業対象の情報を確認する",
+          "checked": false
+        },
+        {
+          "id": "chk-d19am23",
+          "text": "関連するシステムや機器の状態を確認する",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-c18vn20",
+          "title": "チェック項目",
+          "text": "作業対象に異常がないか、必要なアクセス権があるか確認する。",
+          "checklist": [
+            {
+              "id": "chk-m20sk82",
+              "text": "ログイン可能かテストする",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-c39dm20",
+      "title": "手順2：作業実施",
+      "text": "実際の作業工程を示します。順番を守って実行してください。",
+      "checklist": [
+        {
+          "id": "chk-h93sj20",
+          "text": "手順通りに作業を進める",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-x10ba33",
+          "title": "作業工程",
+          "text": "1. システムを起動する\n2. 対象データを読み込む\n3. 必要な処理を実行する\n4. 結果を保存する",
+          "checklist": [
+            {
+              "id": "chk-q29dn51",
+              "text": "処理結果の整合性を確認する",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-d51am88",
+      "title": "手順3：作業後処理",
+      "text": "作業完了後に実施する確認や後片づけの内容。",
+      "checklist": [
+        {
+          "id": "chk-r18ka70",
+          "text": "ログを保存・共有する",
+          "checked": false
+        },
+        {
+          "id": "chk-s28la12",
+          "text": "機器や環境を元の状態に戻す",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-n20dk91",
+          "title": "作業完了チェック",
+          "text": "作業内容に漏れがないか最終確認する。",
+          "checklist": [
+            {
+              "id": "chk-t39md81",
+              "text": "関係者へ作業完了を報告する",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

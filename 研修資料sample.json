@@ -1,0 +1,151 @@
+﻿{
+  "schemaVersion": 3,
+  "title": "研修資料サンプル",
+  "sections": [
+    {
+      "id": "sec-a91k20d",
+      "title": "研修概要",
+      "text": "この研修資料は、新入社員向けの基礎研修を想定したサンプルです。目的・内容・到達目標をまとめています。",
+      "checklist": [
+        {
+          "id": "chk-h28dj91",
+          "text": "研修目的を受講者と共有する",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-f28ka10",
+          "title": "研修の目的",
+          "text": "・組織の基本ルールや役割を理解する\n・業務に必要な基礎スキルを習得する\n・チームコミュニケーションの基本を身につける",
+          "checklist": [
+            {
+              "id": "chk-a30dm28",
+              "text": "研修の目的を事前資料に明記する",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-b82kd19",
+      "title": "研修内容",
+      "text": "研修で扱うテーマやカリキュラムをまとめたセクションです。",
+      "checklist": [
+        {
+          "id": "chk-s18da90",
+          "text": "全カリキュラムの進行表を準備する",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-c18vn20",
+          "title": "テーマ1：会社理解",
+          "text": "・会社のビジョン・ミッション\n・組織構造と各部署の役割\n・就業ルールとコンプライアンス",
+          "checklist": [
+            {
+              "id": "chk-m20sk82",
+              "text": "会社紹介スライドを用意する",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "id": "sub-w27dk32",
+          "title": "テーマ2：業務基礎スキル",
+          "text": "・情報共有の仕方\n・報連相の基本\n・タスク管理とスケジュール管理",
+          "checklist": [
+            {
+              "id": "chk-l19dm22",
+              "text": "ワークシートを配布する",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "id": "sub-a20bx11",
+          "title": "テーマ3：コミュニケーション",
+          "text": "・チーム内コミュニケーション\n・オンライン会議のポイント\n・ビジネスマナーの基礎",
+          "checklist": [
+            {
+              "id": "chk-q39sn14",
+              "text": "ロールプレイ用のシナリオを準備する",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-c39dm20",
+      "title": "研修ワーク",
+      "text": "研修内で実施する演習やディスカッションの内容をまとめます。",
+      "checklist": [
+        {
+          "id": "chk-h93sj20",
+          "text": "ワークの進行役を決める",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-x10ba33",
+          "title": "ワーク1：ケーススタディ",
+          "text": "実際の業務で起こり得るケースに対して解決策を考えるワーク。",
+          "checklist": [
+            {
+              "id": "chk-q29dn51",
+              "text": "ケーススタディ資料を印刷する",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "id": "sub-t38sm88",
+          "title": "ワーク2：グループディスカッション",
+          "text": "テーマに沿って考えをまとめ、発表するトレーニング。",
+          "checklist": [
+            {
+              "id": "chk-p20aj77",
+              "text": "発表用のテンプレートを共有する",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-d51am88",
+      "title": "研修後のフォロー",
+      "text": "研修後の振り返りや実務への定着を図るためのアクションをまとめています。",
+      "checklist": [
+        {
+          "id": "chk-r18ka70",
+          "text": "受講者アンケートを実施する",
+          "checked": false
+        },
+        {
+          "id": "chk-s28la12",
+          "text": "現場でのフォローアップ面談を設定する",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-n20dk91",
+          "title": "振り返りポイント",
+          "text": "・研修で学んだこと\n・実践してみたいこと\n・難しかった点の整理",
+          "checklist": [
+            {
+              "id": "chk-t39md81",
+              "text": "受講者に振り返りシートを配布する",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

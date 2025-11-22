@@ -1,0 +1,105 @@
+﻿{
+  "schemaVersion": 3,
+  "title": "読書メモ サンプル",
+  "sections": [
+    {
+      "id": "sec-a91k20d",
+      "title": "書籍情報",
+      "text": "タイトル：〇〇〇〇\n著者：△△△△\n出版年：2025年\n読んだ日：2025/05/01",
+      "checklist": [
+        {
+          "id": "chk-h28dj91",
+          "text": "読書メモを最後まで書く",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-f28ka10",
+          "title": "読む目的",
+          "text": "この本を読む目的を整理しておくと、理解度や読後の振り返りがしやすくなる。",
+          "checklist": [
+            {
+              "id": "chk-a30dm28",
+              "text": "読んだ目的を一文で書く",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-b82kd19",
+      "title": "重要ポイント・要約",
+      "text": "本の中で重要だった部分、心に残った内容、キーワードなどを書き留める。",
+      "checklist": [
+        {
+          "id": "chk-s18da90",
+          "text": "章ごとの重要ポイントをまとめる",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-c18vn20",
+          "title": "印象に残った点",
+          "text": "・○○の考え方が新しかった\n・具体例が豊富で理解しやすかった\n・△△の部分は難しく感じた",
+          "checklist": []
+        }
+      ]
+    },
+    {
+      "id": "sec-c39dm20",
+      "title": "気づき・学び",
+      "text": "本を通して得た学びや、自分の生活・仕事にどう活かせるかを整理する。",
+      "checklist": [
+        {
+          "id": "chk-h93sj20",
+          "text": "3つ以上の学びを書き出す",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-x10ba33",
+          "title": "活用アイデア",
+          "text": "・日常の行動に取り入れたいこと\n・仕事の改善に応用できるアイデア\n・新しく試したい習慣",
+          "checklist": [
+            {
+              "id": "chk-z38sn14",
+              "text": "学びのうち1つを実際に行動する",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-d51am88",
+      "title": "引用・抜き書き",
+      "text": "印象深い文章や引用したい言葉をメモしておく。",
+      "checklist": [],
+      "subsections": [
+        {
+          "id": "sub-n20dk91",
+          "title": "引用メモ",
+          "text": "例：\n「□□□」\n「△△△が□□を変える」",
+          "checklist": []
+        }
+      ]
+    },
+    {
+      "id": "sec-e28sm62",
+      "title": "次に読む本・関連書籍",
+      "text": "読んだ内容から派生して興味を持った本や参考文献をまとめる。",
+      "checklist": [
+        {
+          "id": "chk-r18ka70",
+          "text": "次に読む本を1冊選ぶ",
+          "checked": false
+        }
+      ],
+      "subsections": []
+    }
+  ]
+}

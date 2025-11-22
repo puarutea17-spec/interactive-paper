@@ -1,0 +1,140 @@
+﻿{
+  "schemaVersion": 3,
+  "title": "県内引っ越し・県外引っ越しの手続きまとめ",
+  "sections": [
+    {
+      "id": "sec-a91k20d",
+      "title": "県内引っ越しの手続き",
+      "text": "県内での引っ越しは、同じ都道府県内で住所を移す場合に必要な手続き。転出届は不要だが、転居届やライフラインの変更などが必要となる。",
+      "checklist": [
+        {
+          "id": "chk-h28dj91",
+          "text": "市区町村役場で転居届を提出する",
+          "checked": false
+        },
+        {
+          "id": "chk-l20am30",
+          "text": "マイナンバーカードの住所変更を行う",
+          "checked": false
+        },
+        {
+          "id": "chk-p30dk10",
+          "text": "運転免許証の住所変更を行う",
+          "checked": false
+        },
+        {
+          "id": "chk-x28sj20",
+          "text": "電気・水道・ガスの住所変更または開始/停止手続きをする",
+          "checked": false
+        },
+        {
+          "id": "chk-m39sd81",
+          "text": "郵便物の転送届を出す",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-f28ka10",
+          "title": "学校・勤務先など",
+          "text": "県内であっても、学校や勤務先への住所連絡は必要。",
+          "checklist": [
+            {
+              "id": "chk-w27dk32",
+              "text": "勤務先へ住所変更届を提出する",
+              "checked": false
+            },
+            {
+              "id": "chk-a30dm28",
+              "text": "子どもの学校への住所変更・通学区域の確認",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-b82kd19",
+      "title": "県外引っ越しの手続き",
+      "text": "県外への引っ越しは、必要な手続きが県内より多く、転出届と転入届の両方が必要。またライフラインや学校・勤務先の手続きも広範囲になる。",
+      "checklist": [
+        {
+          "id": "chk-s18da90",
+          "text": "旧住所の市区町村で転出届を提出する",
+          "checked": false
+        },
+        {
+          "id": "chk-d19am23",
+          "text": "新住所の市区町村で転入届を提出する",
+          "checked": false
+        },
+        {
+          "id": "chk-t20vm82",
+          "text": "国民健康保険・国民年金の住所変更（該当者のみ）",
+          "checked": false
+        },
+        {
+          "id": "chk-k39dj11",
+          "text": "ガスの閉栓手続き・開栓立ち会い予約",
+          "checked": false
+        },
+        {
+          "id": "chk-x27sb18",
+          "text": "インターネット回線の移転手続きまたは新規契約",
+          "checked": false
+        },
+        {
+          "id": "chk-f30mc21",
+          "text": "車庫証明・自動車登録の住所変更（必要な場合）",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-c18vn20",
+          "title": "郵便・金融・保険など",
+          "text": "住所変更は多岐にわたるため、早めに一覧化しておくと進めやすい。",
+          "checklist": [
+            {
+              "id": "chk-m20sk82",
+              "text": "郵便物の転送届を出す（1年間有効）",
+              "checked": false
+            },
+            {
+              "id": "chk-a18sn02",
+              "text": "銀行・クレジットカードの住所変更を行う",
+              "checked": false
+            },
+            {
+              "id": "chk-h93sj20",
+              "text": "生命保険・自動車保険などの住所変更を行う",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "id": "sub-x10ba33",
+          "title": "学校・勤務先関連",
+          "text": "転校や勤務先への手続きが必要になるため、早めの準備が重要。",
+          "checklist": [
+            {
+              "id": "chk-q29dn51",
+              "text": "子どもの転校手続き（在籍校で書類受取）",
+              "checked": false
+            },
+            {
+              "id": "chk-z38sn14",
+              "text": "新住所の学校への連絡・入学手続き",
+              "checked": false
+            },
+            {
+              "id": "chk-b27dk11",
+              "text": "勤務先の住所変更手続き",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

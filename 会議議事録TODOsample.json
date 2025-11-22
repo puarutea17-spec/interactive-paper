@@ -1,0 +1,112 @@
+﻿{
+  "schemaVersion": 3,
+  "title": "会議議事録 + ToDo サンプル",
+  "sections": [
+    {
+      "id": "sec-a91k20d",
+      "title": "会議概要",
+      "text": "プロジェクト定例会議の議事録サンプル。進捗確認、課題共有、次回までのToDoを整理する。",
+      "checklist": [
+        {
+          "id": "chk-h28dj91",
+          "text": "議事録を関係者へ共有する",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-f28ka10",
+          "title": "会議情報",
+          "text": "日時：2025年5月1日 10:00?11:00\n場所：オンライン（Google Meet）\n参加者：Aさん、Bさん、Cさん",
+          "checklist": []
+        }
+      ]
+    },
+    {
+      "id": "sec-b82kd19",
+      "title": "議題1：進捗報告",
+      "text": "各メンバーから現在のタスク進捗について報告が行われた。",
+      "checklist": [
+        {
+          "id": "chk-s18da90",
+          "text": "進捗内容をタスク管理表に反映する",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-c18vn20",
+          "title": "メンバー別報告",
+          "text": "Aさん：デザイン案90%完了\nBさん：バックエンドAPI開発50%完了\nCさん：ユーザーテストシナリオ作成中",
+          "checklist": []
+        }
+      ]
+    },
+    {
+      "id": "sec-c39dm20",
+      "title": "議題2：課題共有",
+      "text": "現在発生している課題について共有し、対応方針を検討した。",
+      "checklist": [
+        {
+          "id": "chk-h93sj20",
+          "text": "課題対応の優先度を再確認する",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-x10ba33",
+          "title": "共有された課題",
+          "text": "・APIレスポンスが一部遅延している\n・ユーザーテストの参加者が不足している\n・デザイン修正の追加要望が増加",
+          "checklist": [
+            {
+              "id": "chk-q29dn51",
+              "text": "API遅延の原因調査（担当：Bさん）",
+              "checked": false
+            },
+            {
+              "id": "chk-z38sn14",
+              "text": "テスト参加者の再募集（担当：Cさん）",
+              "checked": false
+            },
+            {
+              "id": "chk-b27dk11",
+              "text": "デザイン修正要望を整理（担当：Aさん）",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-d51am88",
+      "title": "議題3：次回までのToDo整理",
+      "text": "次回会議までに対応すべきタスクを明確化し、担当者を割り当てた。",
+      "checklist": [],
+      "subsections": [
+        {
+          "id": "sub-n20dk91",
+          "title": "ToDo一覧",
+          "text": "次回会議日：2025年5月8日（木）",
+          "checklist": [
+            {
+              "id": "chk-r18ka70",
+              "text": "UIデザイン最終案の提出（担当：Aさん／期限：5月6日）",
+              "checked": false
+            },
+            {
+              "id": "chk-s28la12",
+              "text": "API遅延改善案の提示（担当：Bさん／期限：5月7日）",
+              "checked": false
+            },
+            {
+              "id": "chk-t39md81",
+              "text": "ユーザーテスト参加者リスト確定（担当：Cさん／期限：5月6日）",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

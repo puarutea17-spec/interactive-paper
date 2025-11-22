@@ -1,0 +1,114 @@
+﻿{
+  "schemaVersion": 3,
+  "title": "プロジェクト管理サンプル",
+  "sections": [
+    {
+      "id": "sec-a91k20d",
+      "title": "プロジェクト概要",
+      "text": "このプロジェクトは、企画から開発、リリースまでの一連の工程を管理するためのサンプルです。",
+      "checklist": [
+        {
+          "id": "chk-h28dj91",
+          "text": "プロジェクトの目的を明確化する",
+          "checked": false
+        },
+        {
+          "id": "chk-p30dk10",
+          "text": "主要メンバーをアサインする",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-f28ka10",
+          "title": "スコープ定義",
+          "text": "プロジェクトの対象範囲（スコープ）を定め、やること・やらないことを明確にする。",
+          "checklist": [
+            {
+              "id": "chk-w27dk32",
+              "text": "スコープ文書を作成する",
+              "checked": false
+            },
+            {
+              "id": "chk-a30dm28",
+              "text": "関係者にスコープをレビューしてもらう",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-b82kd19",
+      "title": "タスク管理",
+      "text": "プロジェクトの進行に必要なタスクを整理し、担当者と期限を設定する。",
+      "checklist": [
+        {
+          "id": "chk-s18da90",
+          "text": "タスク一覧を作成する",
+          "checked":false
+        },
+        {
+          "id": "chk-d19am23",
+          "text": "予定・期限を設定する",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-c18vn20",
+          "title": "優先度設定",
+          "text": "タスクに優先度を割り当て、重要なタスクから取り組めるようにする。",
+          "checklist": [
+            {
+              "id": "chk-m20sk82",
+              "text": "タスクに優先度（高・中・低）を設定する",
+              "checked": false
+            },
+            {
+              "id": "chk-a18sn02",
+              "text": "優先タスクをチームに共有する",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec-c39dm20",
+      "title": "進捗管理",
+      "text": "タスクや成果物の進行状況を定期的に確認し、必要に応じて調整する。",
+      "checklist": [
+        {
+          "id": "chk-h93sj20",
+          "text": "定例ミーティングを設定する",
+          "checked": false
+        },
+        {
+          "id": "chk-x10dn52",
+          "text": "遅延タスクの原因を確認する",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-x10ba33",
+          "title": "報告・レビュー",
+          "text": "進捗をまとめて関係者に共有し、認識のズレをなくす。",
+          "checklist": [
+            {
+              "id": "chk-q29dn51",
+              "text": "週次または月次レポートを作成する",
+              "checked": false
+            },
+            {
+              "id": "chk-z38sn14",
+              "text": "レビュー会議を実施する",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

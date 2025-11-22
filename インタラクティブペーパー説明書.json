@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 3,
+  "title": "インタラクティブペーパーの説明",
+  "sections": [
+    {
+      "id": "sec-a91k20d",
+      "title": "Interactive Paper とは",
+      "text": "Interactive Paper は「文章 × アウトライン構造 × チェックリスト」を組み合わせて整理できる、Web ベースのドキュメントツール。ローカル環境で動作し、生成AIに JSON を作らせて取り込む使い方が便利。一から手入力して使うことも可能。",
+      "checklist": [
+        {
+          "id": "chk-h28dj91",
+          "text": "インタラクティブペーパーの基本説明を理解した",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-f28ka10",
+          "title": "特徴",
+          "text": "・H2（セクション）と H3（小見出し）で階層整理\n・各階層に本文を保持\n・チェックリストの追加が自由\n・ドラッグ＆ドロップで並び替え\n・JSON形式で保存・復元\n・ローカルストレージに自動保存\n・進捗率（達成率）を自動表示\n・セクション折りたたみ\n・上下移動ボタンでワンタッチ並び替え",
+          "checklist": []
+        }
+      ]
+    },
+    {
+      "id": "sec-b82kd19",
+      "title": "データ構造（JSON Schema）",
+      "text": "Interactive Paper は schemaVersion / title / sections の 3 要素で構成される。ID は sec / sub / chk 形式でランダム生成される。",
+      "checklist": [],
+      "subsections": [
+        {
+          "id": "sub-c18vn20",
+          "title": "基本構造",
+          "text": "{\n  \"schemaVersion\": 3,\n  \"title\": \"文書タイトル\",\n  \"sections\": [\n    {\n      \"id\": \"sec-xxxxxxx\",\n      \"title\": \"セクションタイトル\",\n      \"text\": \"本文テキスト\",\n      \"checklist\": [\n        { \"id\": \"chk-xxxxxxx\", \"text\": \"項目\", \"checked\": false }\n      ],\n      \"subsections\": [\n        {\n          \"id\": \"sub-xxxxxxx\",\n          \"title\": \"小見出しタイトル\",\n          \"text\": \"テキスト\",\n          \"checklist\": [\n            { \"id\": \"chk-yyyyyyy\", \"text\": \"項目\", \"checked\": true }\n          ]\n        }\n      ]\n    }\n  ]\n}",
+          "checklist": []
+        },
+        {
+          "id": "sub-w27dk32",
+          "title": "階層構造",
+          "text": "Section（H2）\n ├─ 本文\n ├─ Checklist\n └─ Subsection（H3）\n     ├─ 本文\n     └─ Checklist",
+          "checklist": []
+        }
+      ]
+    },
+    {
+      "id": "sec-c39dm20",
+      "title": "操作方法",
+      "text": "基本的な操作手順をまとめたセクション。",
+      "checklist": [],
+      "subsections": [
+        {
+          "id": "sub-x10ba33",
+          "title": "追加操作",
+          "text": "・セクション追加：画面上部の「＋ セクション追加」\n・小見出し追加：セクション右上の「＋ 小見出し」\n・項目追加：セクション直下 or 小見出し内部で「＋ 項目」",
+          "checklist": []
+        },
+        {
+          "id": "sub-t38sm88",
+          "title": "並び替え",
+          "text": "・セクション（H2）単位で DnD\n・小見出し（H3）単位で DnD\n・チェック項目はセクションを跨いで移動可能\n・H2 → H3、H3 → H2 に自由に移動可能",
+          "checklist": []
+        },
+        {
+          "id": "sub-a20bx11",
+          "title": "保存と復元",
+          "text": "・ローカルストレージに自動保存\n・「JSON 書き出し」でダウンロード\n・「JSON 読み込み」で復元可能",
+          "checklist": []
+        }
+      ]
+    },
+    {
+      "id": "sec-d51am88",
+      "title": "進捗バー",
+      "text": "各セクションに進捗バーが付き、チェック済み項目の割合を自動計算して表示する。",
+      "checklist": [],
+      "subsections": [
+        {
+          "id": "sub-n20dk91",
+          "title": "計算方法",
+          "text": "checked / total * 100\n小見出し内の項目も含めて計算される。",
+          "checklist": []
+        }
+      ]
+    },
+    {
+      "id": "sec-e18sm22",
+      "title": "セクション折りたたみ & 移動",
+      "text": "セクションタイトル横の「▼」「▶」で折りたたみ可能。上下移動ボタンで簡単に並び替え。",
+      "checklist": [],
+      "subsections": []
+    },
+    {
+      "id": "sec-f29dn60",
+      "title": "こんな用途に向く",
+      "text": "Interactive Paper は幅広い用途に使える。",
+      "checklist": [
+        {
+          "id": "chk-k29xj01",
+          "text": "用途のどれかで試してみる",
+          "checked": false
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sub-q39sn14",
+          "title": "使用例",
+          "text": "・プロジェクト管理\n・会議議事録 + ToDo\n・研修資料\n・作業手順書\n・読書メモ\n・学習ログ\n・文章構成の下書き",
+          "checklist": []
+        }
+      ]
+    }
+  ]
+}
